@@ -1,2 +1,2 @@
 # SlotMachine-SemiWeighted
- A slot Machine methid that produces semi-weighted results
+ A slot Machine method that produces semi-weighted results
